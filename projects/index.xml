@@ -24,5 +24,14 @@
       <description>( If you love my website lol ) Hugo is a powerful and fast static site generator written in Go. It&amp;#39;s perfect for blogs, portfolios, company websites, and much more.</description>
     </item>
     
+    <item>
+      <title>The Magic Place</title>
+      <link>https://jtshong.com/projects/magic_place/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jtshong.com/projects/magic_place/</guid>
+      <description>You make me butterfly🦋</description>
+    </item>
+    
   </channel>
 </rss>
