@@ -242,6 +242,28 @@ window.onload = function() {
     document.getElementById('dayCounter').innerText = '我们在一起到现在'+ dayDifference + '天, 分开了'+dayDifference_1+'天';
 }
 </script>
+<div id="luck"></div>
+<script>
+    function getFortune() {
+        var xhr = new XMLHttpRequest();
+        var url = 'http://web.juhe.cn:8080/constellation/getAll';
+        var params = 'consName=天秤座&type=today&key=61380d82f440bfeffc581022202cd2fe';
+
+        xhr.onreadystatechange = function() {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                var response = JSON.parse(xhr.responseText);
+                var fortuneDiv = document.getElementById('fortune');
+                fortuneDiv.textContent = response.summary;
+            }
+        };
+
+        xhr.open('GET', url + '?' + params, true);
+        xhr.send();
+    }
+
+    getFortune();
+</script>
+
 <p>我很爱你，我也很想你❤️</p>
 
 
