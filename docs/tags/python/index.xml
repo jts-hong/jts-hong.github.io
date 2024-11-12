@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Python on Jingtao Scott Hong</title>
-    <link>https://jtshong.com/tags/python/</link>
+    <link>http://localhost:1313/tags/python/</link>
     <description>Recent content in Python on Jingtao Scott Hong</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <atom:link href="https://jtshong.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Algorithms</title>
-      <link>https://jtshong.com/projects/algorithms/</link>
+      <link>http://localhost:1313/projects/algorithms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/projects/algorithms/</guid>
+      <guid>http://localhost:1313/projects/algorithms/</guid>
       <description>Here are all the algorithms found with corresponding explanation and example code.</description>
     </item>
     <item>
       <title>Hugo Tutorial</title>
-      <link>https://jtshong.com/projects/hugo_tutorial/</link>
+      <link>http://localhost:1313/projects/hugo_tutorial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/projects/hugo_tutorial/</guid>
+      <guid>http://localhost:1313/projects/hugo_tutorial/</guid>
       <description>( If you love my website lol ) Hugo is a powerful and fast static site generator written in Go. It&amp;#39;s perfect for blogs, portfolios, company websites, and much more.</description>
     </item>
     <item>
       <title>大众点评 爬虫教程</title>
-      <link>https://jtshong.com/projects/dzdp_spider/</link>
+      <link>http://localhost:1313/projects/dzdp_spider/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/projects/dzdp_spider/</guid>
+      <guid>http://localhost:1313/projects/dzdp_spider/</guid>
       <description>大众点评店铺信息和评论信息爬虫教程</description>
     </item>
   </channel>
