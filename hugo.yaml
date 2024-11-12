@@ -1,4 +1,4 @@
-baseURL: "https://jtshong.com"
+baseURL: "https://jtshong.com/"
 languageCode: en-us
 title: Jingtao Scott Hong
 theme: PaperMod
@@ -16,15 +16,15 @@ menu:
       weight: 10
     - identifier: Art
       name: Art
-      url: /Art
+      url: /Art/
       weight: 20
     - identifier: Projects
       name: Projects
-      url: /Projects
+      url: /Projects/
       weight: 30
     - identifier: About
       name: About
-      url: /About
+      url: /About/
       weight: 40
     - identifier: Search
       name: Search
