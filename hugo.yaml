@@ -1,0 +1,105 @@
+baseURL: "https://jtshong.com"
+languageCode: en-us
+title: Jingtao Scott Hong
+theme: PaperMod
+
+pagination:
+  pagerSize: 10000
+publishDir: "docs"
+
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: Art
+      name: Art
+      url: /Art
+      weight: 20
+    - identifier: Projects
+      name: Projects
+      url: /Projects
+      weight: 30
+    - identifier: About
+      name: About
+      url: /About
+      weight: 40
+    - identifier: Search
+      name: Search
+      url: /Search
+      weight: 50
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags
+    #   weight: 60
+    # - identifier: notes
+    #   name: Notes
+    #   url: https://notes.arkalim.org
+    #   weight: 70
+
+params:
+  # theme
+  showToc: false
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+  # for enchanced SEO
+  env: production
+  # Home Page
+  profileMode:
+    enabled: true
+    title: "Jingtao Scott Hong"
+    # subtitle: "I'm a Undergraduate Student at University of Virginia. I am Computer Science and Studio Art(Cinematography Concentration), working at the Security Research Group under Professor David Evans in Computer Science Department.I make Independent Short Film as well as Graphic Designs and Photography, insterested in Experimental and Narratives.🏀🏈🥍🎾🥏⛳️🛹⛷️⚽️"
+    subtitle: Data Scientist | AI Engineer | Filmaker | Software Developer 
+    imageUrl: "home/me.jpg"
+    imageWidth: 175 
+    imageHeight: 175
+    # buttons:
+    #   - name: Resume
+    #     url: ""
+
+  # List View
+  hideDescriptionInList: false
+
+  # cover image for posts
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  socialIcons:
+    - name: "email"
+      url: "mailto:jhong1711785634gmail.com"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/jtshong"
+    - name: "github"
+      url: "https://github.com/jts-hong"
+    - name: "youtube"
+      url: "https://www.youtube.com/channel/UCiJaqqvssEbyp_4O89QFp5Q"
+    - name: "cv"
+      url: "https://drive.google.com/file/d/1LOERFGziGW-bdIWQx-m9wH_2WuW0DQnD/view?usp=sharing"
+
+  # text search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

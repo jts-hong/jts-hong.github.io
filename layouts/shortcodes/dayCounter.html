@@ -1,0 +1,14 @@
+<div id="dayCounter"></div>
+<script>
+window.onload = function() {
+    var startDate = new Date('2021-04-01');  // replace with your start date
+    var today = new Date();
+    var timeDifference = Math.abs(today - startDate);
+    var dayDifference = Math.floor(timeDifference / (1000 * 3600 * 24));
+    var startDate_1 = new Date('2023-07-01');  // replace with your start date
+    var timeDifference_1 = Math.abs(today - startDate_1);
+    var dayDifference_1 = Math.floor(timeDifference_1 / (1000 * 3600 * 24));
+
+    document.getElementById('dayCounter').innerText = '我们在一起到现在'+ dayDifference + '天, 分开了'+dayDifference_1+'天';
+}
+</script>
