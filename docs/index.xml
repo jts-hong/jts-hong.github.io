@@ -1,412 +1,241 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Jingtao Scott Hong</title>
-    <link>https://jtshong.com/</link>
-    <description>Recent content on Jingtao Scott Hong</description>
-    <generator>Hugo -- 0.138.0</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jtshong.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Algorithms</title>
-      <link>https://jtshong.com/projects/algorithms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/projects/algorithms/</guid>
-      <description>Here are all the algorithms found with corresponding explanation and example code.</description>
-    </item>
-    <item>
-      <title>Hugo Tutorial</title>
-      <link>https://jtshong.com/projects/hugo_tutorial/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/projects/hugo_tutorial/</guid>
-      <description>( If you love my website lol ) Hugo is a powerful and fast static site generator written in Go. It&amp;#39;s perfect for blogs, portfolios, company websites, and much more.</description>
-    </item>
-    <item>
-      <title>大众点评 爬虫教程</title>
-      <link>https://jtshong.com/projects/dzdp_spider/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/projects/dzdp_spider/</guid>
-      <description>大众点评店铺信息和评论信息爬虫教程</description>
-    </item>
-    <item>
-      <title>ALIRA</title>
-      <link>https://jtshong.com/art/alira/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/art/alira/</guid>
-      <description>&lt;h2 id=&#34;alira&#34;&gt;ALIRA&lt;/h2&gt;
-&lt;p&gt;2022 Adrenaline Film Project&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;Alira&amp;rdquo; - A short film written, shot, and edited by Mia Gualtieri, Alyce Yang, Scott Hong in 72 hours for the Adrenaline Film Project in October 2022.&lt;/p&gt;
-
-
-    
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/KYLyyRcExqI?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>blue_hat</title>
-      <link>https://jtshong.com/art/blue_hat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/art/blue_hat/</guid>
-      <description>&lt;h2 id=&#34;blue_hat&#34;&gt;blue_hat&lt;/h2&gt;
-&lt;p&gt;Water flows far away, but we have the phone line.&lt;/p&gt;
-
-
-    
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/xcM5rjbYvGA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>i_dont_know_where_to_go</title>
-      <link>https://jtshong.com/art/i_dont_know_where_to_go/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/art/i_dont_know_where_to_go/</guid>
-      <description>&lt;h2 id=&#34;i_dont_know_where_to_go&#34;&gt;I_dont_know_where_to_go&lt;/h2&gt;
-&lt;p&gt;It just goes around and around and around.&lt;/p&gt;
-
-
-    
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/6_z-Ml1RK3Q?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>red_tailor</title>
-      <link>https://jtshong.com/art/red_tailor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/art/red_tailor/</guid>
-      <description>&lt;h2 id=&#34;red_tailor&#34;&gt;red_tailor&lt;/h2&gt;
-&lt;p&gt;Wargrandpop&lt;/p&gt;
-
-
-    
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/I6NS2GaUab4?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>sunday_service</title>
-      <link>https://jtshong.com/art/sunday_service/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/art/sunday_service/</guid>
-      <description>&lt;h2 id=&#34;sunday_service&#34;&gt;sunday_service&lt;/h2&gt;
-&lt;p&gt;Mondo 2023 Spring with Mia Gualtieri.&lt;/p&gt;
-
-
-    
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Jn7sh-MuE_E?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>tanks</title>
-      <link>https://jtshong.com/art/tanks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/art/tanks/</guid>
-      <description>&lt;h2 id=&#34;tanks&#34;&gt;tanks&lt;/h2&gt;
-&lt;p&gt;Scott Hong&amp;rsquo;s Undergraduate Studio Art Major Thesis Film.&lt;/p&gt;
-
-
-    
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/AGYBbeX8MVc?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>the_painting_class</title>
-      <link>https://jtshong.com/art/the_painting_class/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/art/the_painting_class/</guid>
-      <description>&lt;h2 id=&#34;the_painting_class&#34;&gt;the_painting_class&lt;/h2&gt;
-&lt;p&gt;Let&amp;rsquo;s learn some art.&lt;/p&gt;
-
-
-    
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/h7bodk1tiWQ?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>what_didn&#39;t_kill_me</title>
-      <link>https://jtshong.com/art/what_didnt_kill_me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/art/what_didnt_kill_me/</guid>
-      <description>&lt;h2 id=&#34;what_didnt_kill_me&#34;&gt;what_didn&amp;rsquo;t_kill_me&lt;/h2&gt;
-&lt;p&gt;Blinks.&lt;/p&gt;
-
-
-    
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/kb0m6mljcT8?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>what_we_call_home</title>
-      <link>https://jtshong.com/art/what_we_call_home/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/art/what_we_call_home/</guid>
-      <description>&lt;h2 id=&#34;what_we_call_home&#34;&gt;what_we_call_home&lt;/h2&gt;
-&lt;p&gt;Where is your home??&lt;/p&gt;
-
-
-    
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/WXliqvg0cE0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>X1</title>
-      <link>https://jtshong.com/art/x1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/art/x1/</guid>
-      <description>&lt;h2 id=&#34;x1&#34;&gt;X1&lt;/h2&gt;
-&lt;p&gt;Clamp.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>X2</title>
-      <link>https://jtshong.com/art/x2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/art/x2/</guid>
-      <description>&lt;h2 id=&#34;x2&#34;&gt;X2&lt;/h2&gt;
-&lt;p&gt;Clamp.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>X3</title>
-      <link>https://jtshong.com/art/x3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/art/x3/</guid>
-      <description>&lt;h2 id=&#34;x3&#34;&gt;X3&lt;/h2&gt;
-&lt;p&gt;Clamp.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>X4</title>
-      <link>https://jtshong.com/art/x4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/art/x4/</guid>
-      <description>&lt;h2 id=&#34;x4&#34;&gt;X4&lt;/h2&gt;
-&lt;p&gt;Clamp.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>海天价值地图框架v0.1</title>
-      <link>https://jtshong.com/projects/haitian_value/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/projects/haitian_value/</guid>
-      <description>&lt;h2 id=&#34;业务规模增长&#34;&gt;&lt;strong&gt;业务规模增长&lt;/strong&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;提升产品竞争力&#34;&gt;提升产品竞争力&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;提升价格策略制定能力&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;事前准确测算产品成本，获取市场价格&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;提升产品成本测算的准确性与精确性&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;采购&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;原材料采购价格反馈及时率&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;生产&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;理论BOM与装配BOM变动率&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;财务&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;理论BOM和装配BOM 的成本差异率&lt;/li&gt;
-&lt;li&gt;销售合同时点材料价格与采购时点材料价格差异率&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;提升市场价格获取能力，有效监控竞争对手价格&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;销售&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;竞品价格收集率&lt;/li&gt;
-&lt;li&gt;竞品价格收集频率&lt;/li&gt;
-&lt;li&gt;市场价格调研报告份数&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;提升市场价格获取能力，提升海外不同时长的终端价格获取能力&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;销售&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;竞品价格收集率（海外）&lt;/li&gt;
-&lt;li&gt;竞品价格收集频率（海外）&lt;/li&gt;
-&lt;li&gt;市场价格调研报告份数（海外）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;事后分析边际贡献，支持价格调整与优化&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;提升产品成本测算能力&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;财务&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;材料成本&lt;/li&gt;
-&lt;li&gt;制造费用&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;过程费用测算&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;财务&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;过程费用的测算需包括海外销售服务成本（海外）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;佣金/返利（海外）&lt;/li&gt;
-&lt;li&gt;物流运费&lt;/li&gt;
-&lt;li&gt;关税&lt;/li&gt;
-&lt;li&gt;其他出口相关费用&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;过程费用的测算需区分固定及变动销售费用&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;展览、会务等营销费用-固定&lt;/li&gt;
-&lt;li&gt;销售费用折旧摊销-固定&lt;/li&gt;
-&lt;li&gt;销售费用人工-固定&lt;/li&gt;
-&lt;li&gt;佣金/返利-变动&lt;/li&gt;
-&lt;li&gt;物流运费-变动&lt;/li&gt;
-&lt;li&gt;包装费用-变动&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;过程费用测算需考虑固定管理费用的分摊&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;工厂管理费用&lt;/li&gt;
-&lt;li&gt;研发费用&lt;/li&gt;
-&lt;li&gt;本部管理费用&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;计算产品边际贡献，支持价格策略制定&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;销售收入&lt;/li&gt;
-&lt;li&gt;销售毛利&lt;/li&gt;
-&lt;li&gt;营业利润&lt;/li&gt;
-&lt;li&gt;净利润&lt;/li&gt;
-&lt;li&gt;毛利率/利润率&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;提升产品质量控制能力&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;建立质量计划与质量认证体系&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;行业质量认证体系应用&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;生产&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;质量标准应用覆盖率&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;财务&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;质量认证支出&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;有效寻找专业质量机构&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;生产&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;质量体系认证数量&lt;/li&gt;
-&lt;li&gt;质量标准产品覆盖率&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;对产品进行有效的评审控制&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;技术环节评审控制&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;技术&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;技术评审不合格率&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;关键零部件采购质量控制&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;综合有效监控采购质量&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;采购&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About Me</title>
-      <link>https://jtshong.com/about/</link>
-      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/about/</guid>
-      <description>&lt;img src=&#34;https://jtshong.com/Home/me.jpg&#34; alt=&#34;My Headshot&#34; width=&#34;300px&#34; border-radius=&#34;20px&#34;&gt;
-&lt;h2 id=&#34;hi-im-jingtao-scott-hong&#34;&gt;Hi, I&amp;rsquo;m Jingtao Scott Hong&lt;/h2&gt;
-&lt;p&gt;Graduate student in Business Analytics at Columbia University with a Computer Science background from the University of Virginia. Skilled in AI, data science, and software engineering, with a focus on developing robust, scalable solutions. Experience includes building AI-powered automation platforms, optimizing data architectures, and creating full-stack web applications in roles at HireBeat and KPMG Shanghai. Led projects such as an Azure OpenAI-driven environmental compliance assistant, utilizing advanced NLP, graph databases, and embedding techniques. Proven ability to combine machine learning, data engineering, and software development to create impactful, data-driven business solutions.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Magic Place</title>
-      <link>https://jtshong.com/projects/magic_place/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/projects/magic_place/</guid>
-      <description>You make me butterfly🦋</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Jingtao Scott Hong</title><link>https://jtshong.com/</link><description>Recent content on Jingtao Scott Hong</description><generator>Hugo -- 0.138.0</generator><language>en-us</language><lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jtshong.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Algorithms</title><link>https://jtshong.com/projects/algorithms/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/projects/algorithms/</guid><description>Here are all the algorithms found with corresponding explanation and example code.</description></item><item><title>Hugo Tutorial</title><link>https://jtshong.com/projects/hugo_tutorial/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/projects/hugo_tutorial/</guid><description>( If you love my website lol ) Hugo is a powerful and fast static site generator written in Go. It&amp;#39;s perfect for blogs, portfolios, company websites, and much more.</description></item><item><title>大众点评 爬虫教程</title><link>https://jtshong.com/projects/dzdp_spider/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/projects/dzdp_spider/</guid><description>大众点评店铺信息和评论信息爬虫教程</description></item><item><title>ALIRA</title><link>https://jtshong.com/art/alira/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/art/alira/</guid><description>&lt;h2 id="alira">ALIRA&lt;/h2>
+&lt;p>2022 Adrenaline Film Project&lt;/p>
+&lt;p>&amp;ldquo;Alira&amp;rdquo; - A short film written, shot, and edited by Mia Gualtieri, Alyce Yang, Scott Hong in 72 hours for the Adrenaline Film Project in October 2022.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/KYLyyRcExqI?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+>&lt;/iframe>
+&lt;/div></description></item><item><title>blue_hat</title><link>https://jtshong.com/art/blue_hat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/art/blue_hat/</guid><description>&lt;h2 id="blue_hat">blue_hat&lt;/h2>
+&lt;p>Water flows far away, but we have the phone line.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/xcM5rjbYvGA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+>&lt;/iframe>
+&lt;/div></description></item><item><title>i_dont_know_where_to_go</title><link>https://jtshong.com/art/i_dont_know_where_to_go/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/art/i_dont_know_where_to_go/</guid><description>&lt;h2 id="i_dont_know_where_to_go">I_dont_know_where_to_go&lt;/h2>
+&lt;p>It just goes around and around and around.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/6_z-Ml1RK3Q?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+>&lt;/iframe>
+&lt;/div></description></item><item><title>red_tailor</title><link>https://jtshong.com/art/red_tailor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/art/red_tailor/</guid><description>&lt;h2 id="red_tailor">red_tailor&lt;/h2>
+&lt;p>Wargrandpop&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/I6NS2GaUab4?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+>&lt;/iframe>
+&lt;/div></description></item><item><title>sunday_service</title><link>https://jtshong.com/art/sunday_service/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/art/sunday_service/</guid><description>&lt;h2 id="sunday_service">sunday_service&lt;/h2>
+&lt;p>Mondo 2023 Spring with Mia Gualtieri.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Jn7sh-MuE_E?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+>&lt;/iframe>
+&lt;/div></description></item><item><title>tanks</title><link>https://jtshong.com/art/tanks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/art/tanks/</guid><description>&lt;h2 id="tanks">tanks&lt;/h2>
+&lt;p>Scott Hong&amp;rsquo;s Undergraduate Studio Art Major Thesis Film.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/AGYBbeX8MVc?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+>&lt;/iframe>
+&lt;/div></description></item><item><title>the_painting_class</title><link>https://jtshong.com/art/the_painting_class/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/art/the_painting_class/</guid><description>&lt;h2 id="the_painting_class">the_painting_class&lt;/h2>
+&lt;p>Let&amp;rsquo;s learn some art.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/h7bodk1tiWQ?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+>&lt;/iframe>
+&lt;/div></description></item><item><title>what_didn't_kill_me</title><link>https://jtshong.com/art/what_didnt_kill_me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/art/what_didnt_kill_me/</guid><description>&lt;h2 id="what_didnt_kill_me">what_didn&amp;rsquo;t_kill_me&lt;/h2>
+&lt;p>Blinks.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/kb0m6mljcT8?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+>&lt;/iframe>
+&lt;/div></description></item><item><title>what_we_call_home</title><link>https://jtshong.com/art/what_we_call_home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/art/what_we_call_home/</guid><description>&lt;h2 id="what_we_call_home">what_we_call_home&lt;/h2>
+&lt;p>Where is your home??&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/WXliqvg0cE0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+>&lt;/iframe>
+&lt;/div></description></item><item><title>X1</title><link>https://jtshong.com/art/x1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/art/x1/</guid><description>&lt;h2 id="x1">X1&lt;/h2>
+&lt;p>Clamp.&lt;/p></description></item><item><title>X2</title><link>https://jtshong.com/art/x2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/art/x2/</guid><description>&lt;h2 id="x2">X2&lt;/h2>
+&lt;p>Clamp.&lt;/p></description></item><item><title>X3</title><link>https://jtshong.com/art/x3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/art/x3/</guid><description>&lt;h2 id="x3">X3&lt;/h2>
+&lt;p>Clamp.&lt;/p></description></item><item><title>X4</title><link>https://jtshong.com/art/x4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/art/x4/</guid><description>&lt;h2 id="x4">X4&lt;/h2>
+&lt;p>Clamp.&lt;/p></description></item><item><title>海天价值地图框架v0.1</title><link>https://jtshong.com/projects/haitian_value/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/projects/haitian_value/</guid><description>&lt;h2 id="业务规模增长">&lt;strong>业务规模增长&lt;/strong>&lt;/h2>
+&lt;h3 id="提升产品竞争力">提升产品竞争力&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>提升价格策略制定能力&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>事前准确测算产品成本，获取市场价格&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>提升产品成本测算的准确性与精确性&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>采购&lt;/p>
+&lt;ul>
+&lt;li>原材料采购价格反馈及时率&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>生产&lt;/p>
+&lt;ul>
+&lt;li>理论BOM与装配BOM变动率&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>财务&lt;/p>
+&lt;ul>
+&lt;li>理论BOM和装配BOM 的成本差异率&lt;/li>
+&lt;li>销售合同时点材料价格与采购时点材料价格差异率&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>提升市场价格获取能力，有效监控竞争对手价格&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>销售&lt;/p>
+&lt;ul>
+&lt;li>竞品价格收集率&lt;/li>
+&lt;li>竞品价格收集频率&lt;/li>
+&lt;li>市场价格调研报告份数&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>提升市场价格获取能力，提升海外不同时长的终端价格获取能力&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>销售&lt;/p>
+&lt;ul>
+&lt;li>竞品价格收集率（海外）&lt;/li>
+&lt;li>竞品价格收集频率（海外）&lt;/li>
+&lt;li>市场价格调研报告份数（海外）&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>事后分析边际贡献，支持价格调整与优化&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>提升产品成本测算能力&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>财务&lt;/p>
+&lt;ul>
+&lt;li>材料成本&lt;/li>
+&lt;li>制造费用&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>过程费用测算&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>财务&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>过程费用的测算需包括海外销售服务成本（海外）&lt;/p>
+&lt;ul>
+&lt;li>佣金/返利（海外）&lt;/li>
+&lt;li>物流运费&lt;/li>
+&lt;li>关税&lt;/li>
+&lt;li>其他出口相关费用&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>过程费用的测算需区分固定及变动销售费用&lt;/p>
+&lt;ul>
+&lt;li>展览、会务等营销费用-固定&lt;/li>
+&lt;li>销售费用折旧摊销-固定&lt;/li>
+&lt;li>销售费用人工-固定&lt;/li>
+&lt;li>佣金/返利-变动&lt;/li>
+&lt;li>物流运费-变动&lt;/li>
+&lt;li>包装费用-变动&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>过程费用测算需考虑固定管理费用的分摊&lt;/p>
+&lt;ul>
+&lt;li>工厂管理费用&lt;/li>
+&lt;li>研发费用&lt;/li>
+&lt;li>本部管理费用&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>计算产品边际贡献，支持价格策略制定&lt;/p>
+&lt;ul>
+&lt;li>销售收入&lt;/li>
+&lt;li>销售毛利&lt;/li>
+&lt;li>营业利润&lt;/li>
+&lt;li>净利润&lt;/li>
+&lt;li>毛利率/利润率&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>提升产品质量控制能力&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>建立质量计划与质量认证体系&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>行业质量认证体系应用&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>生产&lt;/p>
+&lt;ul>
+&lt;li>质量标准应用覆盖率&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>财务&lt;/p>
+&lt;ul>
+&lt;li>质量认证支出&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>有效寻找专业质量机构&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>生产&lt;/p>
+&lt;ul>
+&lt;li>质量体系认证数量&lt;/li>
+&lt;li>质量标准产品覆盖率&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>对产品进行有效的评审控制&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>技术环节评审控制&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>技术&lt;/p>
+&lt;ul>
+&lt;li>技术评审不合格率&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>关键零部件采购质量控制&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>综合有效监控采购质量&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>采购&lt;/p></description></item><item><title>About Me</title><link>https://jtshong.com/about/</link><pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate><guid>https://jtshong.com/about/</guid><description>&lt;img src="https://jtshong.com/Home/me.jpg" alt="My Headshot" width="300px" border-radius="20px">
+&lt;h2 id="hi-im-jingtao-scott-hong">Hi, I&amp;rsquo;m Jingtao Scott Hong&lt;/h2>
+&lt;p>Graduate student in Business Analytics at Columbia University with a Computer Science background from the University of Virginia. Skilled in AI, data science, and software engineering, with a focus on developing robust, scalable solutions. Experience includes building AI-powered automation platforms, optimizing data architectures, and creating full-stack web applications in roles at HireBeat and KPMG Shanghai. Led projects such as an Azure OpenAI-driven environmental compliance assistant, utilizing advanced NLP, graph databases, and embedding techniques. Proven ability to combine machine learning, data engineering, and software development to create impactful, data-driven business solutions.&lt;/p></description></item><item><title>The Magic Place</title><link>https://jtshong.com/projects/magic_place/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/projects/magic_place/</guid><description>You make me butterfly🦋</description></item></channel></rss>
