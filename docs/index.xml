@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jingtao Scott Hong</title>
-    <link>http://localhost:1313/</link>
+    <link>https://jtshong.com/</link>
     <description>Recent content on Jingtao Scott Hong</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jtshong.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Algorithms</title>
-      <link>http://localhost:1313/projects/algorithms/</link>
+      <link>https://jtshong.com/projects/algorithms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/algorithms/</guid>
+      <guid>https://jtshong.com/projects/algorithms/</guid>
       <description>Here are all the algorithms found with corresponding explanation and example code.</description>
     </item>
     <item>
       <title>Hugo Tutorial</title>
-      <link>http://localhost:1313/projects/hugo_tutorial/</link>
+      <link>https://jtshong.com/projects/hugo_tutorial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/hugo_tutorial/</guid>
+      <guid>https://jtshong.com/projects/hugo_tutorial/</guid>
       <description>( If you love my website lol ) Hugo is a powerful and fast static site generator written in Go. It&amp;#39;s perfect for blogs, portfolios, company websites, and much more.</description>
     </item>
     <item>
       <title>大众点评 爬虫教程</title>
-      <link>http://localhost:1313/projects/dzdp_spider/</link>
+      <link>https://jtshong.com/projects/dzdp_spider/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/dzdp_spider/</guid>
+      <guid>https://jtshong.com/projects/dzdp_spider/</guid>
       <description>大众点评店铺信息和评论信息爬虫教程</description>
     </item>
     <item>
       <title>ALIRA</title>
-      <link>http://localhost:1313/art/alira/</link>
+      <link>https://jtshong.com/art/alira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/alira/</guid>
+      <guid>https://jtshong.com/art/alira/</guid>
       <description>&lt;h2 id=&#34;alira&#34;&gt;ALIRA&lt;/h2&gt;
 &lt;p&gt;2022 Adrenaline Film Project&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Alira&amp;rdquo; - A short film written, shot, and edited by Mia Gualtieri, Alyce Yang, Scott Hong in 72 hours for the Adrenaline Film Project in October 2022.&lt;/p&gt;
@@ -47,9 +47,9 @@
     </item>
     <item>
       <title>blue_hat</title>
-      <link>http://localhost:1313/art/blue_hat/</link>
+      <link>https://jtshong.com/art/blue_hat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/blue_hat/</guid>
+      <guid>https://jtshong.com/art/blue_hat/</guid>
       <description>&lt;h2 id=&#34;blue_hat&#34;&gt;blue_hat&lt;/h2&gt;
 &lt;p&gt;Water flows far away, but we have the phone line.&lt;/p&gt;
 
@@ -62,9 +62,9 @@
     </item>
     <item>
       <title>i_dont_know_where_to_go</title>
-      <link>http://localhost:1313/art/i_dont_know_where_to_go/</link>
+      <link>https://jtshong.com/art/i_dont_know_where_to_go/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/i_dont_know_where_to_go/</guid>
+      <guid>https://jtshong.com/art/i_dont_know_where_to_go/</guid>
       <description>&lt;h2 id=&#34;i_dont_know_where_to_go&#34;&gt;I_dont_know_where_to_go&lt;/h2&gt;
 &lt;p&gt;It just goes around and around and around.&lt;/p&gt;
 
@@ -77,9 +77,9 @@
     </item>
     <item>
       <title>red_tailor</title>
-      <link>http://localhost:1313/art/red_tailor/</link>
+      <link>https://jtshong.com/art/red_tailor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/red_tailor/</guid>
+      <guid>https://jtshong.com/art/red_tailor/</guid>
       <description>&lt;h2 id=&#34;red_tailor&#34;&gt;red_tailor&lt;/h2&gt;
 &lt;p&gt;Wargrandpop&lt;/p&gt;
 
@@ -92,9 +92,9 @@
     </item>
     <item>
       <title>sunday_service</title>
-      <link>http://localhost:1313/art/sunday_service/</link>
+      <link>https://jtshong.com/art/sunday_service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/sunday_service/</guid>
+      <guid>https://jtshong.com/art/sunday_service/</guid>
       <description>&lt;h2 id=&#34;sunday_service&#34;&gt;sunday_service&lt;/h2&gt;
 &lt;p&gt;Mondo 2023 Spring with Mia Gualtieri.&lt;/p&gt;
 
@@ -107,9 +107,9 @@
     </item>
     <item>
       <title>tanks</title>
-      <link>http://localhost:1313/art/tanks/</link>
+      <link>https://jtshong.com/art/tanks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/tanks/</guid>
+      <guid>https://jtshong.com/art/tanks/</guid>
       <description>&lt;h2 id=&#34;tanks&#34;&gt;tanks&lt;/h2&gt;
 &lt;p&gt;Scott Hong&amp;rsquo;s Undergraduate Studio Art Major Thesis Film.&lt;/p&gt;
 
@@ -122,9 +122,9 @@
     </item>
     <item>
       <title>the_painting_class</title>
-      <link>http://localhost:1313/art/the_painting_class/</link>
+      <link>https://jtshong.com/art/the_painting_class/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/the_painting_class/</guid>
+      <guid>https://jtshong.com/art/the_painting_class/</guid>
       <description>&lt;h2 id=&#34;the_painting_class&#34;&gt;the_painting_class&lt;/h2&gt;
 &lt;p&gt;Let&amp;rsquo;s learn some art.&lt;/p&gt;
 
@@ -137,9 +137,9 @@
     </item>
     <item>
       <title>what_didn&#39;t_kill_me</title>
-      <link>http://localhost:1313/art/what_didnt_kill_me/</link>
+      <link>https://jtshong.com/art/what_didnt_kill_me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/what_didnt_kill_me/</guid>
+      <guid>https://jtshong.com/art/what_didnt_kill_me/</guid>
       <description>&lt;h2 id=&#34;what_didnt_kill_me&#34;&gt;what_didn&amp;rsquo;t_kill_me&lt;/h2&gt;
 &lt;p&gt;Blinks.&lt;/p&gt;
 
@@ -152,9 +152,9 @@
     </item>
     <item>
       <title>what_we_call_home</title>
-      <link>http://localhost:1313/art/what_we_call_home/</link>
+      <link>https://jtshong.com/art/what_we_call_home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/what_we_call_home/</guid>
+      <guid>https://jtshong.com/art/what_we_call_home/</guid>
       <description>&lt;h2 id=&#34;what_we_call_home&#34;&gt;what_we_call_home&lt;/h2&gt;
 &lt;p&gt;Where is your home??&lt;/p&gt;
 
@@ -167,41 +167,41 @@
     </item>
     <item>
       <title>X1</title>
-      <link>http://localhost:1313/art/x1/</link>
+      <link>https://jtshong.com/art/x1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/x1/</guid>
+      <guid>https://jtshong.com/art/x1/</guid>
       <description>&lt;h2 id=&#34;x1&#34;&gt;X1&lt;/h2&gt;
 &lt;p&gt;Clamp.&lt;/p&gt;</description>
     </item>
     <item>
       <title>X2</title>
-      <link>http://localhost:1313/art/x2/</link>
+      <link>https://jtshong.com/art/x2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/x2/</guid>
+      <guid>https://jtshong.com/art/x2/</guid>
       <description>&lt;h2 id=&#34;x2&#34;&gt;X2&lt;/h2&gt;
 &lt;p&gt;Clamp.&lt;/p&gt;</description>
     </item>
     <item>
       <title>X3</title>
-      <link>http://localhost:1313/art/x3/</link>
+      <link>https://jtshong.com/art/x3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/x3/</guid>
+      <guid>https://jtshong.com/art/x3/</guid>
       <description>&lt;h2 id=&#34;x3&#34;&gt;X3&lt;/h2&gt;
 &lt;p&gt;Clamp.&lt;/p&gt;</description>
     </item>
     <item>
       <title>X4</title>
-      <link>http://localhost:1313/art/x4/</link>
+      <link>https://jtshong.com/art/x4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/x4/</guid>
+      <guid>https://jtshong.com/art/x4/</guid>
       <description>&lt;h2 id=&#34;x4&#34;&gt;X4&lt;/h2&gt;
 &lt;p&gt;Clamp.&lt;/p&gt;</description>
     </item>
     <item>
       <title>海天价值地图框架v0.1</title>
-      <link>http://localhost:1313/projects/haitian_value/</link>
+      <link>https://jtshong.com/projects/haitian_value/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/haitian_value/</guid>
+      <guid>https://jtshong.com/projects/haitian_value/</guid>
       <description>&lt;h2 id=&#34;业务规模增长&#34;&gt;&lt;strong&gt;业务规模增长&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;提升产品竞争力&#34;&gt;提升产品竞争力&lt;/h3&gt;
 &lt;ul&gt;
@@ -394,18 +394,18 @@
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://jtshong.com/about/</link>
       <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;img src=&#34;http://localhost:1313/Home/me.jpg&#34; alt=&#34;My Headshot&#34; width=&#34;300px&#34; border-radius=&#34;20px&#34;&gt;
+      <guid>https://jtshong.com/about/</guid>
+      <description>&lt;img src=&#34;https://jtshong.com/Home/me.jpg&#34; alt=&#34;My Headshot&#34; width=&#34;300px&#34; border-radius=&#34;20px&#34;&gt;
 &lt;h2 id=&#34;hi-im-jingtao-scott-hong&#34;&gt;Hi, I&amp;rsquo;m Jingtao Scott Hong&lt;/h2&gt;
 &lt;p&gt;Graduate student in Business Analytics at Columbia University with a Computer Science background from the University of Virginia. Skilled in AI, data science, and software engineering, with a focus on developing robust, scalable solutions. Experience includes building AI-powered automation platforms, optimizing data architectures, and creating full-stack web applications in roles at HireBeat and KPMG Shanghai. Led projects such as an Azure OpenAI-driven environmental compliance assistant, utilizing advanced NLP, graph databases, and embedding techniques. Proven ability to combine machine learning, data engineering, and software development to create impactful, data-driven business solutions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Magic Place</title>
-      <link>http://localhost:1313/projects/magic_place/</link>
+      <link>https://jtshong.com/projects/magic_place/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/magic_place/</guid>
+      <guid>https://jtshong.com/projects/magic_place/</guid>
       <description>You make me butterfly🦋</description>
     </item>
   </channel>

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Jingtao Scott Hong</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://jtshong.com/projects/</link>
     <description>Recent content in Projects on Jingtao Scott Hong</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jtshong.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Algorithms</title>
-      <link>http://localhost:1313/projects/algorithms/</link>
+      <link>https://jtshong.com/projects/algorithms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/algorithms/</guid>
+      <guid>https://jtshong.com/projects/algorithms/</guid>
       <description>Here are all the algorithms found with corresponding explanation and example code.</description>
     </item>
     <item>
       <title>Hugo Tutorial</title>
-      <link>http://localhost:1313/projects/hugo_tutorial/</link>
+      <link>https://jtshong.com/projects/hugo_tutorial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/hugo_tutorial/</guid>
+      <guid>https://jtshong.com/projects/hugo_tutorial/</guid>
       <description>( If you love my website lol ) Hugo is a powerful and fast static site generator written in Go. It&amp;#39;s perfect for blogs, portfolios, company websites, and much more.</description>
     </item>
     <item>
       <title>大众点评 爬虫教程</title>
-      <link>http://localhost:1313/projects/dzdp_spider/</link>
+      <link>https://jtshong.com/projects/dzdp_spider/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/dzdp_spider/</guid>
+      <guid>https://jtshong.com/projects/dzdp_spider/</guid>
       <description>大众点评店铺信息和评论信息爬虫教程</description>
     </item>
     <item>
       <title>海天价值地图框架v0.1</title>
-      <link>http://localhost:1313/projects/haitian_value/</link>
+      <link>https://jtshong.com/projects/haitian_value/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/haitian_value/</guid>
+      <guid>https://jtshong.com/projects/haitian_value/</guid>
       <description>&lt;h2 id=&#34;业务规模增长&#34;&gt;&lt;strong&gt;业务规模增长&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;提升产品竞争力&#34;&gt;提升产品竞争力&lt;/h3&gt;
 &lt;ul&gt;
@@ -225,9 +225,9 @@
     </item>
     <item>
       <title>The Magic Place</title>
-      <link>http://localhost:1313/projects/magic_place/</link>
+      <link>https://jtshong.com/projects/magic_place/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/magic_place/</guid>
+      <guid>https://jtshong.com/projects/magic_place/</guid>
       <description>You make me butterfly🦋</description>
     </item>
   </channel>

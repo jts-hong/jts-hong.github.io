@@ -2,7 +2,6 @@ baseURL: "https://jtshong.com/"
 languageCode: en-us
 title: Jingtao Scott Hong
 theme: PaperMod
-canonifyurls: true
 
 pagination:
   pagerSize: 10000

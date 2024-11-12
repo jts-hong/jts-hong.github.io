@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Other on Jingtao Scott Hong</title>
-    <link>http://localhost:1313/tags/other/</link>
+    <link>https://jtshong.com/tags/other/</link>
     <description>Recent content in Other on Jingtao Scott Hong</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jtshong.com/tags/other/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>海天价值地图框架v0.1</title>
-      <link>http://localhost:1313/projects/haitian_value/</link>
+      <link>https://jtshong.com/projects/haitian_value/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/haitian_value/</guid>
+      <guid>https://jtshong.com/projects/haitian_value/</guid>
       <description>&lt;h2 id=&#34;业务规模增长&#34;&gt;&lt;strong&gt;业务规模增长&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;提升产品竞争力&#34;&gt;提升产品竞争力&lt;/h3&gt;
 &lt;ul&gt;
