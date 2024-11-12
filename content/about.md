@@ -6,7 +6,7 @@ layout: "about"
 toc: false
 ---
 
-<img src="/home/me.jpg" alt="My Headshot" width="300px" border-radius="20px">
+<img src="/Home/me.jpg" alt="My Headshot" width="300px" border-radius="20px">
 
 ## Hi, I'm Jingtao Scott Hong
 Graduate student in Business Analytics at Columbia University with a Computer Science background from the University of Virginia. Skilled in AI, data science, and software engineering, with a focus on developing robust, scalable solutions. Experience includes building AI-powered automation platforms, optimizing data architectures, and creating full-stack web applications in roles at HireBeat and KPMG Shanghai. Led projects such as an Azure OpenAI-driven environmental compliance assistant, utilizing advanced NLP, graph databases, and embedding techniques. Proven ability to combine machine learning, data engineering, and software development to create impactful, data-driven business solutions.
