@@ -54,7 +54,7 @@ params:
     title: "Jingtao Scott Hong"
     # subtitle: "I'm a Undergraduate Student at University of Virginia. I am Computer Science and Studio Art(Cinematography Concentration), working at the Security Research Group under Professor David Evans in Computer Science Department.I make Independent Short Film as well as Graphic Designs and Photography, insterested in Experimental and Narratives.🏀🏈🥍🎾🥏⛳️🛹⛷️⚽️"
     subtitle: Data Scientist | AI Engineer | Filmaker | Software Developer 
-    imageUrl: "home/me.jpg"
+    imageUrl: "Home/me.jpg"
     imageWidth: 175 
     imageHeight: 175
     # buttons:
