@@ -1,234 +1,189 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Projects on Jingtao Scott Hong</title>
-    <link>http://localhost:1313/projects/</link>
-    <description>Recent content in Projects on Jingtao Scott Hong</description>
-    <generator>Hugo -- 0.138.0</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Algorithms</title>
-      <link>http://localhost:1313/projects/algorithms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/algorithms/</guid>
-      <description>Here are all the algorithms found with corresponding explanation and example code.</description>
-    </item>
-    <item>
-      <title>Hugo Tutorial</title>
-      <link>http://localhost:1313/projects/hugo_tutorial/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/hugo_tutorial/</guid>
-      <description>( If you love my website lol ) Hugo is a powerful and fast static site generator written in Go. It&amp;#39;s perfect for blogs, portfolios, company websites, and much more.</description>
-    </item>
-    <item>
-      <title>大众点评 爬虫教程</title>
-      <link>http://localhost:1313/projects/dzdp_spider/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/dzdp_spider/</guid>
-      <description>大众点评店铺信息和评论信息爬虫教程</description>
-    </item>
-    <item>
-      <title>海天价值地图框架v0.1</title>
-      <link>http://localhost:1313/projects/haitian_value/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/haitian_value/</guid>
-      <description>&lt;h2 id=&#34;业务规模增长&#34;&gt;&lt;strong&gt;业务规模增长&lt;/strong&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;提升产品竞争力&#34;&gt;提升产品竞争力&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;提升价格策略制定能力&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;事前准确测算产品成本，获取市场价格&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;提升产品成本测算的准确性与精确性&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;采购&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;原材料采购价格反馈及时率&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;生产&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;理论BOM与装配BOM变动率&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;财务&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;理论BOM和装配BOM 的成本差异率&lt;/li&gt;
-&lt;li&gt;销售合同时点材料价格与采购时点材料价格差异率&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;提升市场价格获取能力，有效监控竞争对手价格&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;销售&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;竞品价格收集率&lt;/li&gt;
-&lt;li&gt;竞品价格收集频率&lt;/li&gt;
-&lt;li&gt;市场价格调研报告份数&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;提升市场价格获取能力，提升海外不同时长的终端价格获取能力&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;销售&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;竞品价格收集率（海外）&lt;/li&gt;
-&lt;li&gt;竞品价格收集频率（海外）&lt;/li&gt;
-&lt;li&gt;市场价格调研报告份数（海外）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;事后分析边际贡献，支持价格调整与优化&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;提升产品成本测算能力&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;财务&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;材料成本&lt;/li&gt;
-&lt;li&gt;制造费用&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;过程费用测算&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;财务&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;过程费用的测算需包括海外销售服务成本（海外）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;佣金/返利（海外）&lt;/li&gt;
-&lt;li&gt;物流运费&lt;/li&gt;
-&lt;li&gt;关税&lt;/li&gt;
-&lt;li&gt;其他出口相关费用&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;过程费用的测算需区分固定及变动销售费用&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;展览、会务等营销费用-固定&lt;/li&gt;
-&lt;li&gt;销售费用折旧摊销-固定&lt;/li&gt;
-&lt;li&gt;销售费用人工-固定&lt;/li&gt;
-&lt;li&gt;佣金/返利-变动&lt;/li&gt;
-&lt;li&gt;物流运费-变动&lt;/li&gt;
-&lt;li&gt;包装费用-变动&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;过程费用测算需考虑固定管理费用的分摊&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;工厂管理费用&lt;/li&gt;
-&lt;li&gt;研发费用&lt;/li&gt;
-&lt;li&gt;本部管理费用&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;计算产品边际贡献，支持价格策略制定&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;销售收入&lt;/li&gt;
-&lt;li&gt;销售毛利&lt;/li&gt;
-&lt;li&gt;营业利润&lt;/li&gt;
-&lt;li&gt;净利润&lt;/li&gt;
-&lt;li&gt;毛利率/利润率&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;提升产品质量控制能力&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;建立质量计划与质量认证体系&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;行业质量认证体系应用&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;生产&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;质量标准应用覆盖率&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;财务&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;质量认证支出&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;有效寻找专业质量机构&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;生产&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;质量体系认证数量&lt;/li&gt;
-&lt;li&gt;质量标准产品覆盖率&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;对产品进行有效的评审控制&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;技术环节评审控制&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;技术&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;技术评审不合格率&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;关键零部件采购质量控制&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;综合有效监控采购质量&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;采购&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Magic Place</title>
-      <link>http://localhost:1313/projects/magic_place/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/magic_place/</guid>
-      <description>You make me butterfly🦋</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Projects on Jingtao Scott Hong</title><link>https://jtshong.com/projects/</link><description>Recent content in Projects on Jingtao Scott Hong</description><generator>Hugo -- 0.138.0</generator><language>en-us</language><atom:link href="https://jtshong.com/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Algorithms</title><link>https://jtshong.com/projects/algorithms/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/projects/algorithms/</guid><description>Here are all the algorithms found with corresponding explanation and example code.</description></item><item><title>Hugo Tutorial</title><link>https://jtshong.com/projects/hugo_tutorial/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/projects/hugo_tutorial/</guid><description>( If you love my website lol ) Hugo is a powerful and fast static site generator written in Go. It&amp;#39;s perfect for blogs, portfolios, company websites, and much more.</description></item><item><title>大众点评 爬虫教程</title><link>https://jtshong.com/projects/dzdp_spider/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/projects/dzdp_spider/</guid><description>大众点评店铺信息和评论信息爬虫教程</description></item><item><title>海天价值地图框架v0.1</title><link>https://jtshong.com/projects/haitian_value/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/projects/haitian_value/</guid><description>&lt;h2 id="业务规模增长">&lt;strong>业务规模增长&lt;/strong>&lt;/h2>
+&lt;h3 id="提升产品竞争力">提升产品竞争力&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>提升价格策略制定能力&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>事前准确测算产品成本，获取市场价格&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>提升产品成本测算的准确性与精确性&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>采购&lt;/p>
+&lt;ul>
+&lt;li>原材料采购价格反馈及时率&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>生产&lt;/p>
+&lt;ul>
+&lt;li>理论BOM与装配BOM变动率&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>财务&lt;/p>
+&lt;ul>
+&lt;li>理论BOM和装配BOM 的成本差异率&lt;/li>
+&lt;li>销售合同时点材料价格与采购时点材料价格差异率&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>提升市场价格获取能力，有效监控竞争对手价格&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>销售&lt;/p>
+&lt;ul>
+&lt;li>竞品价格收集率&lt;/li>
+&lt;li>竞品价格收集频率&lt;/li>
+&lt;li>市场价格调研报告份数&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>提升市场价格获取能力，提升海外不同时长的终端价格获取能力&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>销售&lt;/p>
+&lt;ul>
+&lt;li>竞品价格收集率（海外）&lt;/li>
+&lt;li>竞品价格收集频率（海外）&lt;/li>
+&lt;li>市场价格调研报告份数（海外）&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>事后分析边际贡献，支持价格调整与优化&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>提升产品成本测算能力&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>财务&lt;/p>
+&lt;ul>
+&lt;li>材料成本&lt;/li>
+&lt;li>制造费用&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>过程费用测算&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>财务&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>过程费用的测算需包括海外销售服务成本（海外）&lt;/p>
+&lt;ul>
+&lt;li>佣金/返利（海外）&lt;/li>
+&lt;li>物流运费&lt;/li>
+&lt;li>关税&lt;/li>
+&lt;li>其他出口相关费用&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>过程费用的测算需区分固定及变动销售费用&lt;/p>
+&lt;ul>
+&lt;li>展览、会务等营销费用-固定&lt;/li>
+&lt;li>销售费用折旧摊销-固定&lt;/li>
+&lt;li>销售费用人工-固定&lt;/li>
+&lt;li>佣金/返利-变动&lt;/li>
+&lt;li>物流运费-变动&lt;/li>
+&lt;li>包装费用-变动&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>过程费用测算需考虑固定管理费用的分摊&lt;/p>
+&lt;ul>
+&lt;li>工厂管理费用&lt;/li>
+&lt;li>研发费用&lt;/li>
+&lt;li>本部管理费用&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>计算产品边际贡献，支持价格策略制定&lt;/p>
+&lt;ul>
+&lt;li>销售收入&lt;/li>
+&lt;li>销售毛利&lt;/li>
+&lt;li>营业利润&lt;/li>
+&lt;li>净利润&lt;/li>
+&lt;li>毛利率/利润率&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>提升产品质量控制能力&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>建立质量计划与质量认证体系&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>行业质量认证体系应用&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>生产&lt;/p>
+&lt;ul>
+&lt;li>质量标准应用覆盖率&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>财务&lt;/p>
+&lt;ul>
+&lt;li>质量认证支出&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>有效寻找专业质量机构&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>生产&lt;/p>
+&lt;ul>
+&lt;li>质量体系认证数量&lt;/li>
+&lt;li>质量标准产品覆盖率&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>对产品进行有效的评审控制&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>技术环节评审控制&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>技术&lt;/p>
+&lt;ul>
+&lt;li>技术评审不合格率&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>关键零部件采购质量控制&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>综合有效监控采购质量&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>采购&lt;/p></description></item><item><title>The Magic Place</title><link>https://jtshong.com/projects/magic_place/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jtshong.com/projects/magic_place/</guid><description>You make me butterfly🦋</description></item></channel></rss>
