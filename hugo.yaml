@@ -11,25 +11,25 @@ publishDir: "docs"
 
 menu:
   main:
-    - identifier: Home
-      name: Home
+    - identifier: home
+      name: home
       url: /
       weight: 10
-    - identifier: Art
-      name: Art
-      url: /Art/
+    - identifier: art
+      name: art
+      url: /art/
       weight: 20
-    - identifier: Projects
-      name: Projects
-      url: /Projects/
+    - identifier: projects
+      name: projects
+      url: /projects/
       weight: 30
-    - identifier: About
-      name: About
-      url: /About/
+    - identifier: about
+      name: about
+      url: /about/
       weight: 40
-    - identifier: Search
-      name: Search
-      url: /Search
+    - identifier: aearch
+      name: search
+      url: /search
       weight: 50
     # - identifier: tags
     #   name: Tags
@@ -55,7 +55,7 @@ params:
     title: "Jingtao Scott Hong"
     # subtitle: "I'm a Undergraduate Student at University of Virginia. I am Computer Science and Studio Art(Cinematography Concentration), working at the Security Research Group under Professor David Evans in Computer Science Department.I make Independent Short Film as well as Graphic Designs and Photography, insterested in Experimental and Narratives.🏀🏈🥍🎾🥏⛳️🛹⛷️⚽️"
     subtitle: Data Scientist | AI Engineer | Filmaker | Software Developer 
-    imageUrl: "Home/me.jpg"
+    imageUrl: "home/me.jpg"
     imageWidth: 175 
     imageHeight: 175
     # buttons:
