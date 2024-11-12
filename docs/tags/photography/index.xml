@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Photography on Jingtao Scott Hong</title>
-    <link>https://jtshong.com/tags/photography/</link>
+    <link>http://localhost:1313/tags/photography/</link>
     <description>Recent content in Photography on Jingtao Scott Hong</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <atom:link href="https://jtshong.com/tags/photography/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/photography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>X1</title>
-      <link>https://jtshong.com/art/x1/</link>
+      <link>http://localhost:1313/art/x1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/art/x1/</guid>
+      <guid>http://localhost:1313/art/x1/</guid>
       <description>&lt;h2 id=&#34;x1&#34;&gt;X1&lt;/h2&gt;
 &lt;p&gt;Clamp.&lt;/p&gt;</description>
     </item>
     <item>
       <title>X2</title>
-      <link>https://jtshong.com/art/x2/</link>
+      <link>http://localhost:1313/art/x2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/art/x2/</guid>
+      <guid>http://localhost:1313/art/x2/</guid>
       <description>&lt;h2 id=&#34;x2&#34;&gt;X2&lt;/h2&gt;
 &lt;p&gt;Clamp.&lt;/p&gt;</description>
     </item>
     <item>
       <title>X3</title>
-      <link>https://jtshong.com/art/x3/</link>
+      <link>http://localhost:1313/art/x3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/art/x3/</guid>
+      <guid>http://localhost:1313/art/x3/</guid>
       <description>&lt;h2 id=&#34;x3&#34;&gt;X3&lt;/h2&gt;
 &lt;p&gt;Clamp.&lt;/p&gt;</description>
     </item>
     <item>
       <title>X4</title>
-      <link>https://jtshong.com/art/x4/</link>
+      <link>http://localhost:1313/art/x4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/art/x4/</guid>
+      <guid>http://localhost:1313/art/x4/</guid>
       <description>&lt;h2 id=&#34;x4&#34;&gt;X4&lt;/h2&gt;
 &lt;p&gt;Clamp.&lt;/p&gt;</description>
     </item>

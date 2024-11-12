@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto">
 
-<head><meta charset="utf-8">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
@@ -9,16 +9,16 @@
 <meta name="keywords" content="Python, CSS, HTML, AI">
 <meta name="description" content="( If you love my website lol ) Hugo is a powerful and fast static site generator written in Go. It&#39;s perfect for blogs, portfolios, company websites, and much more.">
 <meta name="author" content="">
-<link rel="canonical" href="https://jtshong.com/projects/hugo_tutorial/">
+<link rel="canonical" href="http://localhost:1313/projects/hugo_tutorial/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.9809f1e06183bab035704587cb77ba06a064f275b86036474d4a0dfb7889c8a4.css" integrity="sha256-mAnx4GGDurA1cEWHy3e6BqBk8nW4YDZHTUoN&#43;3iJyKQ=" rel="preload stylesheet" as="style">
-<link rel="icon" href="https://jtshong.com/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://jtshong.com/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://jtshong.com/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://jtshong.com/apple-touch-icon.png">
-<link rel="mask-icon" href="https://jtshong.com/safari-pinned-tab.svg">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="https://jtshong.com/projects/hugo_tutorial/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/projects/hugo_tutorial/">
 <noscript>
     <style>
         #theme-toggle,
@@ -55,7 +55,7 @@
         }
 
     </style>
-</noscript><meta property="og:url" content="https://jtshong.com/projects/hugo_tutorial/">
+</noscript><meta property="og:url" content="http://localhost:1313/projects/hugo_tutorial/">
   <meta property="og:site_name" content="Jingtao Scott Hong">
   <meta property="og:title" content="Hugo Tutorial">
   <meta property="og:description" content="( If you love my website lol ) Hugo is a powerful and fast static site generator written in Go. It&#39;s perfect for blogs, portfolios, company websites, and much more.">
@@ -66,9 +66,9 @@
     <meta property="article:tag" content="CSS">
     <meta property="article:tag" content="HTML">
     <meta property="article:tag" content="AI">
-    <meta property="og:image" content="https://jtshong.com/projects/hugo_tutorial/hugo_tutorial.jpg">
+    <meta property="og:image" content="http://localhost:1313/projects/hugo_tutorial/hugo_tutorial.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://jtshong.com/projects/hugo_tutorial/hugo_tutorial.jpg">
+<meta name="twitter:image" content="http://localhost:1313/projects/hugo_tutorial/hugo_tutorial.jpg">
 <meta name="twitter:title" content="Hugo Tutorial">
 <meta name="twitter:description" content="( If you love my website lol ) Hugo is a powerful and fast static site generator written in Go. It&#39;s perfect for blogs, portfolios, company websites, and much more.">
 
@@ -82,13 +82,13 @@
       "@type": "ListItem",
       "position":  1 ,
       "name": "Projects",
-      "item": "https://jtshong.com/projects/"
+      "item": "http://localhost:1313/projects/"
     }, 
     {
       "@type": "ListItem",
       "position":  2 ,
       "name": "Hugo Tutorial",
-      "item": "https://jtshong.com/projects/hugo_tutorial/"
+      "item": "http://localhost:1313/projects/hugo_tutorial/"
     }
   ]
 }
@@ -106,18 +106,18 @@
   "articleBody": "Hugo is a powerful and fast static site generator written in Go. It’s perfect for blogs, portfolios, company websites, and much more.\nPrerequisites Before you begin, make sure you have the following installed:\nGit Hugo Step 1: Installing Hugo To install Hugo on your system, use the following commands based on your operating system:\nmacOS brew install hugo Windows (with Chocolatey) choco install hugo -confirm Linux (with snap) sudo snap install hugo Step 2: Creating a New Site Once Hugo is installed, you can create a new site using the following command:\nhugo new site mysite Replace “mysite” with the name of your website.\nThis will create a new directory with the basic structure of a Hugo site.\nStep 3: Adding Content To add new content to your site, use the new command. For example, to create a new post:\ncd mysite hugo new posts/my-first-post.md This will create a new Markdown file under the posts directory. You can open this file and start writing your first post.\nStep 4: Applying a Theme Hugo uses themes to determine the look and feel of your site. There are many themes available on the Hugo Themes website.\nTo add a theme, you need to clone it into the themes directory of your Hugo site. For example, to install the Ananke theme:\ngit clone https://github.com/budparr/gohugo-theme-ananke.git themes/ananke Then, add the theme to your site’s configuration file (the new updated Hugo changed the file name to hugo.toml):\necho 'theme = \"ananke\"' \u003e\u003e hugo.toml Step 5: Building and Running Your Site Once you’ve added content and chosen a theme, you can build your site and run it locally using the following command:\nhugo server -D You can then open your web browser and go to http://localhost:1313 to see your site.\nCongratulations! You have now created your first Hugo website. Enjoy exploring Hugo’s many features and creating more complex and interesting sites.\nStep 6: Publish Your Website I use github.io for my own website and connect it to my own domain. What you will need to do is run the command below so Hugo will package what it needs to a new folder called public and you can just base your repo root folder to be in that folder.\nhugo -F --cleanDestinationDir ",
   "wordCount" : "374",
   "inLanguage": "en",
-  "image":"https://jtshong.com/projects/hugo_tutorial/hugo_tutorial.jpg","datePublished": "0001-01-01T00:00:00Z",
+  "image":"http://localhost:1313/projects/hugo_tutorial/hugo_tutorial.jpg","datePublished": "0001-01-01T00:00:00Z",
   "dateModified": "0001-01-01T00:00:00Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://jtshong.com/projects/hugo_tutorial/"
+    "@id": "http://localhost:1313/projects/hugo_tutorial/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "Jingtao Scott Hong",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://jtshong.com/favicon.ico"
+      "url": "http://localhost:1313/favicon.ico"
     }
   }
 }
@@ -139,7 +139,7 @@
 <header class="header sticky-header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://jtshong.com/" accesskey="h" title="Jingtao Scott Hong (Alt + H)">Jingtao Scott Hong</a>
+            <a href="http://localhost:1313/" accesskey="h" title="Jingtao Scott Hong (Alt + H)">Jingtao Scott Hong</a>
             <span class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
@@ -167,27 +167,27 @@
         </div>
         <ul id="menu">
             <li>
-                <a href="https://jtshong.com/" title="Home">
+                <a href="http://localhost:1313/" title="Home">
                     <span>Home</span>
                 </a>
             </li>
             <li>
-                <a href="https://jtshong.com/art" title="Art">
+                <a href="http://localhost:1313/art" title="Art">
                     <span>Art</span>
                 </a>
             </li>
             <li>
-                <a href="https://jtshong.com/projects" title="Projects">
+                <a href="http://localhost:1313/projects" title="Projects">
                     <span>Projects</span>
                 </a>
             </li>
             <li>
-                <a href="https://jtshong.com/about" title="About">
+                <a href="http://localhost:1313/about" title="About">
                     <span>About</span>
                 </a>
             </li>
             <li>
-                <a href="https://jtshong.com/search" title="Search (Alt &#43; /)" accesskey=/>
+                <a href="http://localhost:1313/search" title="Search (Alt &#43; /)" accesskey=/>
                     <span>Search</span>
                 </a>
             </li>
@@ -198,7 +198,7 @@
 
 <article class="post-single">
   <header class="post-header">
-    <div class="breadcrumbs"><a href="https://jtshong.com/">Home</a>&nbsp;»&nbsp;<a href="https://jtshong.com/projects/">Projects</a></div>
+    <div class="breadcrumbs"><a href="http://localhost:1313/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/projects/">Projects</a></div>
     <h1 class="post-title entry-hint-parent">
       Hugo Tutorial
     </h1>
@@ -212,7 +212,7 @@ June 2023
 
 </div>
   </header> 
-<figure class="entry-cover"><img loading="eager" src="https://jtshong.com/projects/hugo_tutorial/hugo_tutorial.jpg" alt="">
+<figure class="entry-cover"><img loading="eager" src="http://localhost:1313/projects/hugo_tutorial/hugo_tutorial.jpg" alt="">
         
 </figure>
   <div class="post-content"><p>Hugo is a powerful and fast static site generator written in Go. It&rsquo;s perfect for blogs, portfolios, company websites, and much more.</p>
@@ -260,17 +260,17 @@ June 2023
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://jtshong.com/tags/python/">Python</a></li>
-      <li><a href="https://jtshong.com/tags/css/">CSS</a></li>
-      <li><a href="https://jtshong.com/tags/html/">HTML</a></li>
-      <li><a href="https://jtshong.com/tags/ai/">AI</a></li>
+      <li><a href="http://localhost:1313/tags/python/">Python</a></li>
+      <li><a href="http://localhost:1313/tags/css/">CSS</a></li>
+      <li><a href="http://localhost:1313/tags/html/">HTML</a></li>
+      <li><a href="http://localhost:1313/tags/ai/">AI</a></li>
     </ul>
   </footer>
 </article>
     </main>
     
 <footer class="footer">
-    <span>&copy; 2024 <a href="https://jtshong.com/">Jingtao Scott Hong</a></span>
+    <span>&copy; 2024 <a href="http://localhost:1313/">Jingtao Scott Hong</a></span>
 </footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
