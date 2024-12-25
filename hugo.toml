@@ -181,3 +181,6 @@ enableGitInfo = false
 
 [services.twitter]
   disableInlineCSS = true
+
+
+publishDir = "docs"
