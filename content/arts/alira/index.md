@@ -1,13 +1,13 @@
 ---
-title: "Alira"
+title: "alira"
 description: ""
-date: 2024-12-24T17:11:12-05:00
-lastmod: 2024-12-24T17:11:12-05:00
-categories:
-tags:
+date: 2024-12-23T17:11:12-05:00
+lastmod: 2024-12-23T17:11:12-05:00
+categories: 
+tags: ["short film"]
 draft: false
+# cover: "alira.jpg"
 ---
-
 
 2022 Adrenaline Film Project
 

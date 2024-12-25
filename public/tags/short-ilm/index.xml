@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Short Ilm on jtshong</title>
+    <link>http://localhost:1313/tags/short-ilm/</link>
+    <description>Recent content in Short Ilm on jtshong</description>
+    <image>
+      <title>jtshong</title>
+      <url>http://localhost:1313/opengraph.webp</url>
+      <link>http://localhost:1313/opengraph.webp</link>
+    </image>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Dec 2024 17:11:12 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/short-ilm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alira</title>
+      <link>http://localhost:1313/arts/alira/</link>
+      <pubDate>Tue, 24 Dec 2024 17:11:12 -0500</pubDate>
+      <guid>http://localhost:1313/arts/alira/</guid>
+      <description>&lt;p&gt;2022 Adrenaline Film Project&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Alira&amp;rdquo; - A short film written, shot, and edited by Mia Gualtieri, Alyce Yang, Scott Hong in 72 hours for the Adrenaline Film Project in October 2022.&lt;/p&gt;
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/KYLyyRcExqI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

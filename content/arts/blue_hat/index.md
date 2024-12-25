@@ -1,15 +1,12 @@
 ---
 title: "blue_hat"
-#description: ""
-dateString: June 2022
-draft: false
+description: ""
+date: 2024-12-24T17:11:12-05:00
+lastmod: 2024-12-24T17:11:12-05:00
+categories: 
 tags: ["short film"]
-weight: 201
-cover:
-    image: "/art/blue_hat/blue_hat.jpg"
+draft: false
 ---
-
-## blue_hat
 
 Water flows far away, but we have the phone line.
 

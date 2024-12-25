@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Photography on jtshong</title>
+    <link>http://localhost:1313/tags/photography/</link>
+    <description>Recent content in Photography on jtshong</description>
+    <image>
+      <title>jtshong</title>
+      <url>http://localhost:1313/opengraph.webp</url>
+      <link>http://localhost:1313/opengraph.webp</link>
+    </image>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Dec 2024 17:11:12 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/photography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>x1</title>
+      <link>http://localhost:1313/arts/x1/</link>
+      <pubDate>Tue, 24 Dec 2024 17:11:12 -0500</pubDate>
+      <guid>http://localhost:1313/arts/x1/</guid>
+      <description>&lt;p&gt;Clamp.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>x2</title>
+      <link>http://localhost:1313/arts/x2/</link>
+      <pubDate>Tue, 24 Dec 2024 17:11:12 -0500</pubDate>
+      <guid>http://localhost:1313/arts/x2/</guid>
+      <description>&lt;p&gt;Clamp.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>x3</title>
+      <link>http://localhost:1313/arts/x3/</link>
+      <pubDate>Tue, 24 Dec 2024 17:11:12 -0500</pubDate>
+      <guid>http://localhost:1313/arts/x3/</guid>
+      <description>&lt;p&gt;Clamp.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>x4</title>
+      <link>http://localhost:1313/arts/x4/</link>
+      <pubDate>Tue, 24 Dec 2024 17:11:12 -0500</pubDate>
+      <guid>http://localhost:1313/arts/x4/</guid>
+      <description>&lt;p&gt;Clamp.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on jtshong</title>
-    <link>https://jtshong.com/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on jtshong</description>
     <image>
       <title>jtshong</title>
-      <url>https://jtshong.com/opengraph.webp</url>
-      <link>https://jtshong.com/opengraph.webp</link>
+      <url>http://localhost:1313/opengraph.webp</url>
+      <link>http://localhost:1313/opengraph.webp</link>
     </image>
     <generator>Hugo -- 0.140.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Dec 2024 17:06:45 -0500</lastBuildDate>
-    <atom:link href="https://jtshong.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Algorithms</title>
-      <link>https://jtshong.com/projects/algorithms/</link>
+      <link>http://localhost:1313/projects/algorithms/</link>
       <pubDate>Tue, 24 Dec 2024 17:06:45 -0500</pubDate>
-      <guid>https://jtshong.com/projects/algorithms/</guid>
+      <guid>http://localhost:1313/projects/algorithms/</guid>
       <description>&lt;h2 id=&#34;easy&#34;&gt;Easy&lt;/h2&gt;
 &lt;h3 id=&#34;linear-search&#34;&gt;Linear Search&lt;/h3&gt;
 &lt;p&gt;This is the simplest searching algorithm. It sequentially checks each element of the list until a match is found or the whole list has been searched.&lt;/p&gt;

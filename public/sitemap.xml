@@ -2,27 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jtshong.com/arts/blue_hat/</loc>
-  </url><url>
-    <loc>https://jtshong.com/arts/alira/</loc>
+    <loc>http://localhost:1313/arts/</loc>
     <lastmod>2024-12-24T17:11:12-05:00</lastmod>
   </url><url>
-    <loc>https://jtshong.com/arts/</loc>
+    <loc>http://localhost:1313/arts/blue_hat/</loc>
     <lastmod>2024-12-24T17:11:12-05:00</lastmod>
   </url><url>
-    <loc>https://jtshong.com/</loc>
+    <loc>http://localhost:1313/arts/i_dont_know_where_to_go/</loc>
     <lastmod>2024-12-24T17:11:12-05:00</lastmod>
   </url><url>
-    <loc>https://jtshong.com/projects/algorithms/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-24T17:11:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/photography/</loc>
+    <lastmod>2024-12-24T17:11:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/arts/red_tailor/</loc>
+    <lastmod>2024-12-24T17:11:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/short-film/</loc>
+    <lastmod>2024-12-24T17:11:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/arts/sunday_service/</loc>
+    <lastmod>2024-12-24T17:11:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-24T17:11:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/arts/tanks/</loc>
+    <lastmod>2024-12-24T17:11:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/arts/the_painting_class/</loc>
+    <lastmod>2024-12-24T17:11:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/arts/what_didnt_kill_me/</loc>
+    <lastmod>2024-12-24T17:11:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/arts/what_we_call_home/</loc>
+    <lastmod>2024-12-24T17:11:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/arts/x1/</loc>
+    <lastmod>2024-12-24T17:11:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/arts/x2/</loc>
+    <lastmod>2024-12-24T17:11:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/arts/x3/</loc>
+    <lastmod>2024-12-24T17:11:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/arts/x4/</loc>
+    <lastmod>2024-12-24T17:11:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/algorithms/</loc>
     <lastmod>2024-12-24T17:06:45-05:00</lastmod>
   </url><url>
-    <loc>https://jtshong.com/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-12-24T17:06:45-05:00</lastmod>
   </url><url>
-    <loc>https://jtshong.com/categories/</loc>
+    <loc>http://localhost:1313/arts/alira/</loc>
+    <lastmod>2024-12-23T17:11:12-05:00</lastmod>
   </url><url>
-    <loc>https://jtshong.com/tags/short-film/</loc>
-  </url><url>
-    <loc>https://jtshong.com/tags/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

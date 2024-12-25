@@ -2,34 +2,142 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Arts on jtshong</title>
-    <link>https://jtshong.com/arts/</link>
+    <link>http://localhost:1313/arts/</link>
     <description>Recent content in Arts on jtshong</description>
     <image>
       <title>jtshong</title>
-      <url>https://jtshong.com/opengraph.webp</url>
-      <link>https://jtshong.com/opengraph.webp</link>
+      <url>http://localhost:1313/opengraph.webp</url>
+      <link>http://localhost:1313/opengraph.webp</link>
     </image>
     <generator>Hugo -- 0.140.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Dec 2024 17:11:12 -0500</lastBuildDate>
-    <atom:link href="https://jtshong.com/arts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/arts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blue_hat</title>
-      <link>https://jtshong.com/arts/blue_hat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtshong.com/arts/blue_hat/</guid>
-      <description>&lt;h2 id=&#34;blue_hat&#34;&gt;blue_hat&lt;/h2&gt;
-&lt;p&gt;Water flows far away, but we have the phone line.&lt;/p&gt;
+      <link>http://localhost:1313/arts/blue_hat/</link>
+      <pubDate>Tue, 24 Dec 2024 17:11:12 -0500</pubDate>
+      <guid>http://localhost:1313/arts/blue_hat/</guid>
+      <description>&lt;p&gt;Water flows far away, but we have the phone line.&lt;/p&gt;
 
     &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/xcM5rjbYvGA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;</description>
     </item>
     <item>
-      <title>Alira</title>
-      <link>https://jtshong.com/arts/alira/</link>
+      <title>i_dont_know_where_to_go</title>
+      <link>http://localhost:1313/arts/i_dont_know_where_to_go/</link>
       <pubDate>Tue, 24 Dec 2024 17:11:12 -0500</pubDate>
-      <guid>https://jtshong.com/arts/alira/</guid>
+      <guid>http://localhost:1313/arts/i_dont_know_where_to_go/</guid>
+      <description>&lt;p&gt;It just goes around and around and around.&lt;/p&gt;
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/6_z-Ml1RK3Q?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>red_tailor</title>
+      <link>http://localhost:1313/arts/red_tailor/</link>
+      <pubDate>Tue, 24 Dec 2024 17:11:12 -0500</pubDate>
+      <guid>http://localhost:1313/arts/red_tailor/</guid>
+      <description>&lt;p&gt;Wargrandpop&lt;/p&gt;
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/I6NS2GaUab4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>sunday_service</title>
+      <link>http://localhost:1313/arts/sunday_service/</link>
+      <pubDate>Tue, 24 Dec 2024 17:11:12 -0500</pubDate>
+      <guid>http://localhost:1313/arts/sunday_service/</guid>
+      <description>&lt;p&gt;Mondo 2023 Spring with Mia Gualtieri.&lt;/p&gt;
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/Jn7sh-MuE_E?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>tanks</title>
+      <link>http://localhost:1313/arts/tanks/</link>
+      <pubDate>Tue, 24 Dec 2024 17:11:12 -0500</pubDate>
+      <guid>http://localhost:1313/arts/tanks/</guid>
+      <description>&lt;p&gt;Scott Hong&amp;rsquo;s Undergraduate Studio Art Major Thesis Film.&lt;/p&gt;
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/AGYBbeX8MVc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>the_painting_class</title>
+      <link>http://localhost:1313/arts/the_painting_class/</link>
+      <pubDate>Tue, 24 Dec 2024 17:11:12 -0500</pubDate>
+      <guid>http://localhost:1313/arts/the_painting_class/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s learn some art.&lt;/p&gt;
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/h7bodk1tiWQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>what_didn&#39;t_kill_me</title>
+      <link>http://localhost:1313/arts/what_didnt_kill_me/</link>
+      <pubDate>Tue, 24 Dec 2024 17:11:12 -0500</pubDate>
+      <guid>http://localhost:1313/arts/what_didnt_kill_me/</guid>
+      <description>&lt;p&gt;Blinks.&lt;/p&gt;
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/kb0m6mljcT8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>what_we_call_home</title>
+      <link>http://localhost:1313/arts/what_we_call_home/</link>
+      <pubDate>Tue, 24 Dec 2024 17:11:12 -0500</pubDate>
+      <guid>http://localhost:1313/arts/what_we_call_home/</guid>
+      <description>&lt;p&gt;Where is your home??&lt;/p&gt;
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube-nocookie.com/embed/WXliqvg0cE0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>x1</title>
+      <link>http://localhost:1313/arts/x1/</link>
+      <pubDate>Tue, 24 Dec 2024 17:11:12 -0500</pubDate>
+      <guid>http://localhost:1313/arts/x1/</guid>
+      <description>&lt;p&gt;Clamp.
+&lt;img alt=&#34;x1&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/arts/x1/x1.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>x2</title>
+      <link>http://localhost:1313/arts/x2/</link>
+      <pubDate>Tue, 24 Dec 2024 17:11:12 -0500</pubDate>
+      <guid>http://localhost:1313/arts/x2/</guid>
+      <description>&lt;p&gt;Clamp.
+&lt;img alt=&#34;x2&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/arts/x2/x2.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>x3</title>
+      <link>http://localhost:1313/arts/x3/</link>
+      <pubDate>Tue, 24 Dec 2024 17:11:12 -0500</pubDate>
+      <guid>http://localhost:1313/arts/x3/</guid>
+      <description>&lt;p&gt;Clamp.
+&lt;img alt=&#34;x3&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/arts/x3/X3.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>x4</title>
+      <link>http://localhost:1313/arts/x4/</link>
+      <pubDate>Tue, 24 Dec 2024 17:11:12 -0500</pubDate>
+      <guid>http://localhost:1313/arts/x4/</guid>
+      <description>&lt;p&gt;Clamp.
+&lt;img alt=&#34;x4&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/arts/x4/x4.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>alira</title>
+      <link>http://localhost:1313/arts/alira/</link>
+      <pubDate>Mon, 23 Dec 2024 17:11:12 -0500</pubDate>
+      <guid>http://localhost:1313/arts/alira/</guid>
       <description>&lt;p&gt;2022 Adrenaline Film Project&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Alira&amp;rdquo; - A short film written, shot, and edited by Mia Gualtieri, Alyce Yang, Scott Hong in 72 hours for the Adrenaline Film Project in October 2022.&lt;/p&gt;
 

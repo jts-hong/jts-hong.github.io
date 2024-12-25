@@ -3,7 +3,7 @@ baseURL = "https://jtshong.com"
 # 网站标题
 title = "jtshong"
 # 每页显示的文章数量
-pagination.pagerSize = 7
+pagination.pagerSize = 30
 # 主题名称
 theme = "PaperMod"
 # 语言代码（zh-简体中文）
@@ -182,5 +182,3 @@ enableGitInfo = false
 [services.twitter]
   disableInlineCSS = true
 
-
-publishDir = "docs"

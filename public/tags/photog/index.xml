@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Photog on jtshong</title>
+    <link>http://localhost:1313/tags/photog/</link>
+    <description>Recent content in Photog on jtshong</description>
+    <image>
+      <title>jtshong</title>
+      <url>http://localhost:1313/opengraph.webp</url>
+      <link>http://localhost:1313/opengraph.webp</link>
+    </image>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Dec 2024 17:11:12 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/photog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>what_we_call_home</title>
+      <link>http://localhost:1313/arts/x1/</link>
+      <pubDate>Tue, 24 Dec 2024 17:11:12 -0500</pubDate>
+      <guid>http://localhost:1313/arts/x1/</guid>
+      <description>&lt;h2 id=&#34;x1&#34;&gt;X1&lt;/h2&gt;
+&lt;p&gt;Clamp.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
