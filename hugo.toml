@@ -1,0 +1,183 @@
+# 起始 URL（换成您自己的域名）
+baseURL = "https://jtshong.com"
+# 网站标题
+title = "jtshong"
+# 每页显示的文章数量
+pagination.pagerSize = 7
+# 主题名称
+theme = "PaperMod"
+# 语言代码（zh-简体中文）
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+# 是否有 CJK 语言（中-日-韩）
+hasCJKLanguage = true
+
+# 是否生成 robots.txt
+enableRobotsTXT = true
+
+# 是否构建草稿
+buildDrafts = false
+# 是否构建未来的文章
+buildFuture = false
+# 是否构建过期的文章
+buildExpired = false
+# 是否启用 Emoji
+enableEmoji = true
+# 是否启用 Git 信息
+enableGitInfo = false
+
+# Google Analytics ID
+# googleAnalytics = ""
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+[params]
+  env = "production"
+  title = "jtshong"
+  description = "Scott Hong's PW"
+  author = "Scott hong"
+  # images: List
+  images = ["opengraph.webp"]
+  DateFormat = "2006-01-02"
+  defaultTheme = "auto" # dark, light
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+[params.assets]
+  # disableHLJS = true
+  # disableFingerprinting = true
+  favicon = "<link / abs url>"
+  favicon16x16 = "<link / abs url>"
+  favicon32x32 = "<link / abs url>"
+  apple_touch_icon = "<link / abs url>"
+  safari_pinned_tab = "<link / abs url>"
+
+[params.label]
+  text = "jtshong"
+  icon = "/apple-touch-icon.png"
+  iconHeight = 35
+
+[params.profileMode]
+  enabled = true
+  title = "Jingtao Scott Hong"
+  subtitle = "This is subtitle"
+  imageUrl = "menu/me.jpg"
+  imageWidth = 200
+  imageHeight = 200
+  imageTitle = "my image"
+
+[[params.profileMode.buttons]]
+  name = "Projects"
+  url = "projects"
+
+[[params.profileMode.buttons]]
+  name = "Art"
+  url = "arts"
+
+# [params.homeInfoParams]
+#   Title = "Hi there 👋"
+#   Content = "Welcome to hugo start, this is a example of Hugo and PaperMod"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/jts-hong"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/jtshong/"
+
+[params.analytics.google]
+  SiteVerificationTag = ""
+
+[params.analytics.bing]
+  SiteVerificationTag = ""
+
+[params.analytics.yandex]
+  SiteVerificationTag = ""
+
+[params.cover]
+  hidden = true
+  hiddenInList = true
+  hiddenInSingle = true
+
+[params.editPost]
+  URL = "https://github.com/DejavuMoe/hugo-start/edit/master/content/posts"
+  Text = "Edit on GitHub"
+  appendFilePath = true
+
+[params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = ["title", "permalink", "summary", "content"]
+
+[menu]
+  [[menu.main]]
+    identifier = "Menu"
+    name = "Menu"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "Projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "Arts"
+    name = "Arts"
+    url = "/arts/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "Github"
+    name = "Github"
+    url = "https://github.com/"
+    weight = 30
+
+[markup.highlight]
+  noClasses = false
+
+[privacy.vimeo]
+  disabled = true
+  enableDNT = true
+  simple = true
+
+[privacy.twitter]
+  disabled = true
+  enableDNT = true
+  simple = true
+
+[privacy.instagram]
+  disabled = true
+  simple = true
+
+[privacy.youtube]
+  disabled = true
+  privacyEnhanced = true
+
+[services.instagram]
+  disableInlineCSS = true
+
+[services.twitter]
+  disableInlineCSS = true
