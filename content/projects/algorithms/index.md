@@ -6,6 +6,12 @@ lastmod: 2024-12-24T17:06:45-05:00
 categories:
 tags:
 draft: false
+cover:
+    image: "algorithms.jpg"
+    alt: "algorithms"
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
 ---
 
 

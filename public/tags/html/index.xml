@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HTML on jtshong</title>
+    <link>http://localhost:1313/tags/html/</link>
+    <description>Recent content in HTML on jtshong</description>
+    <image>
+      <title>jtshong</title>
+      <url>http://localhost:1313/opengraph.webp</url>
+      <link>http://localhost:1313/opengraph.webp</link>
+    </image>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Tutorial</title>
+      <link>http://localhost:1313/projects/hugo_tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/hugo_tutorial/</guid>
+      <description>( If you love my website lol ) Hugo is a powerful and fast static site generator written in Go. It&amp;#39;s perfect for blogs, portfolios, company websites, and much more.</description>
+    </item>
+  </channel>
+</rss>

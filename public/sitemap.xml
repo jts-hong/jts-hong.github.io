@@ -17,6 +17,9 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-12-25T17:11:12-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2024-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/arts/blue_hat/</loc>
     <lastmod>2024-12-24T17:11:12-05:00</lastmod>
   </url><url>
@@ -59,7 +62,13 @@
     <loc>http://localhost:1313/projects/algorithms/</loc>
     <lastmod>2024-12-24T17:06:45-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/projects/hugo_tutorial/</loc>
+    <lastmod>2024-12-24T17:06:45-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2024-12-24T17:06:45-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/dzdp_spider/</loc>
     <lastmod>2024-12-24T17:06:45-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>

@@ -44,7 +44,7 @@ enableGitInfo = false
   defaultTheme = "auto" # dark, light
   disableThemeToggle = false
   ShowReadingTime = true
-  ShowShareButtons = true
+  ShowShareButtons = false
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = false
@@ -112,14 +112,14 @@ enableGitInfo = false
   SiteVerificationTag = ""
 
 [params.cover]
-  hidden = true
+  hidden = false
   hiddenInList = true
   hiddenInSingle = true
 
-[params.editPost]
-  URL = "https://github.com/DejavuMoe/hugo-start/edit/master/content/posts"
-  Text = "Edit on GitHub"
-  appendFilePath = true
+# [params.editArt]
+#   URL = "https://github.com/jts-hong/jts-hong.github.io/edit/main/content/arts"
+#   Text = "Edit on GitHub"
+#   appendFilePath = true
 
 [params.fuseOpts]
   isCaseSensitive = false
@@ -149,14 +149,21 @@ enableGitInfo = false
     url = "/arts/"
     weight = 20
 
+
+  [[menu.main]]
+    identifier = "About"
+    name = "About"
+    url = "/about/"
+    weight = 30
   [[menu.main]]
     identifier = "Github"
     name = "Github"
-    url = "https://github.com/"
-    weight = 30
+    url = "https://github.com/jts-hong"
+    weight = 40
 
 [markup.highlight]
   noClasses = false
+
 
 [privacy.vimeo]
   disabled = true
