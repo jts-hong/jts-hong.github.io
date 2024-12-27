@@ -37,7 +37,7 @@ enableGitInfo = false
   env = "production"
   title = "jtshong"
   description = "Scott Hong's PW"
-  author = "Scott hong"
+  author = "Scott Hong"
   # images: List
   images = ["opengraph.webp"]
   DateFormat = "2006-01-02"
@@ -62,9 +62,9 @@ enableGitInfo = false
 [params.assets]
   # disableHLJS = true
   # disableFingerprinting = true
-  favicon = "<link / abs url>"
-  favicon16x16 = "<link / abs url>"
-  favicon32x32 = "<link / abs url>"
+  favicon = "favicon.ico"
+  favicon16x16 = "favicon.ico"
+  favicon32x32 = "favicon.ico"
   apple_touch_icon = "<link / abs url>"
   safari_pinned_tab = "<link / abs url>"
 
@@ -76,7 +76,7 @@ enableGitInfo = false
 [params.profileMode]
   enabled = true
   title = "Jingtao Scott Hong"
-  subtitle = "This is subtitle"
+  subtitle = "Data Scientist | AI Engineer | Filmaker | Software Developer "
   imageUrl = "menu/me.jpg"
   imageWidth = 200
   imageHeight = 200

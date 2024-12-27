@@ -6,6 +6,12 @@ lastmod: 2024-12-24T17:11:12-05:00
 categories: 
 tags: ["short film"]
 draft: false
+cover:
+    image: "sunday_service.jpg"
+    alt: "sunday_service"
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
 ---
 
 

@@ -11,20 +11,20 @@
     </image>
     <generator>Hugo -- 0.140.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Dec 2024 17:11:12 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 17:11:12 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Short Film</title>
+      <link>http://localhost:1313/tags/short-film/</link>
+      <pubDate>Wed, 25 Dec 2024 17:11:12 -0500</pubDate>
+      <guid>http://localhost:1313/tags/short-film/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Photography</title>
       <link>http://localhost:1313/tags/photography/</link>
       <pubDate>Tue, 24 Dec 2024 17:11:12 -0500</pubDate>
       <guid>http://localhost:1313/tags/photography/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Short Film</title>
-      <link>http://localhost:1313/tags/short-film/</link>
-      <pubDate>Tue, 24 Dec 2024 17:11:12 -0500</pubDate>
-      <guid>http://localhost:1313/tags/short-film/</guid>
       <description></description>
     </item>
   </channel>

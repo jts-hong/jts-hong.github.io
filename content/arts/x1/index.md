@@ -6,7 +6,13 @@ lastmod: 2024-12-24T17:11:12-05:00
 categories: 
 tags: ["photography"]
 draft: false
+cover:
+    image: "x1.jpg"
+    alt: "x1"
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
 ---
 Clamp.
-![x1](x1.jpg) 
+
 
